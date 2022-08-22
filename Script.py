@@ -20,10 +20,10 @@ class script(object):
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : 𝚅1.0.43 [𝙼𝙰𝙹𝙾𝚁]"""
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : 𝚅1.0.43 [MOJOR]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- All Creditz ❣️ <a href=https://t.me/Crazy_Lolan</a>❣️ nanban 🔥🔥
-- original source code - <a href=https://t.me/httpsgithubafxsubot>AFSU-Extra-Features</a> 
+- All Creditz ❣️ <a href=https://t.me/Crazy_Lolan>💖NANBAN💖</a>
+
 
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/httpsgithubafxsubot>AFSU-𝐁𝐎𝐓</a>
 
